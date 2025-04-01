@@ -59,7 +59,7 @@ export default function IngredientesScreen() {
             </View>
           </>
         ) : (
-          <Text style={styles.errorText}>No se encontraron ingredientes.</Text>
+          <Text style={styles.errorText}>No se encontraron ingredientes 1.</Text>
         )}
       </ScrollView>
     </ImageBackground>
